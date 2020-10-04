@@ -2,7 +2,12 @@
 
 * [About Swifty](README.md)
 
-## Commands
+## Utilities <a id="commands"></a>
 
-* [Poll](commands/poll.md)
+* [Poll Command](commands/poll.md)
+
+## Links
+
+* [Swifty GitHub](https://github.com/maiacodes/swifty)
+* [Swifty TOP.GG](links/top.gg-bot-665308298924523533.md)
 
